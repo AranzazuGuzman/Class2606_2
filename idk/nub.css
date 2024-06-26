@@ -1,0 +1,10 @@
+Body{
+    background-color: rgb(215, 193, 255);
+}
+#Fondo{
+    opacity: 0.5;
+    height: 900px;
+    background-image: url(imagenes/fondo_nube_morado.avif);
+    background-size: 2000px 900px;
+
+}
